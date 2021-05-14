@@ -17,7 +17,7 @@ body {
   background-color: green;
   color: yellow;
   margin: -1rem auto;
-  height: 12vh;
+  height: 13vh;
   text-align: center;
 }
 
@@ -41,7 +41,7 @@ body {
   -ms-flex-pack: distribute;
       justify-content: space-around;
   width: 95vw;
-  height: 70vh;
+  height: auto;
   background-color: royalblue;
   margin: 1rem auto;
   margin-top: 3.5rem;
