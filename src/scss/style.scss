@@ -29,6 +29,8 @@ body {
   background-color: limegreen;
 }
 .recipe-grid {
+  display: flex;
+  flex-wrap: wrap;
   justify-content: space-around;
   width: 95vw;
   height: auto;
