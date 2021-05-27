@@ -99,7 +99,7 @@ body {
   text-align: center;
 }
 
-.score-box,
+.type-box,
 .food-box {
   text-align: center;
 }
@@ -124,12 +124,12 @@ body {
   list-style: none;
 }
 
-.health-score {
+.dairy-free {
   font-size: 2rem;
   text-transform: uppercase;
 }
 
-.spoon-score {
+.gulten-free {
   font-size: 2rem;
   text-transform: uppercase;
 }
