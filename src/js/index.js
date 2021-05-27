@@ -18,11 +18,11 @@ const query = async function () {
         <div class="recipe-card-back">
           <h3 class="recipe-card-header">${recipes.title}</h3>
           <div class="score-box">
-            <p class="dairy-free">Community Score</p>
+            <p class="dairy-free">Dairy Free</p>
             <p class="dairy-free">${recipes.dairy_free}</p>
           </div>
           <div class="food-box">
-            <p class="gulten-free">Spoonacular Score</p>
+            <p class="gulten-free">Gulten Free</p>
             <p class="gulten-free">${recipes.gulten_free}</p>
           </div>
         </div>
