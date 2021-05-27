@@ -30,7 +30,7 @@ body {
 }
 .recipe-grid {
   display: flex;
-  flex-wrap: nonwrap;
+  flex-wrap: wrap;
   justify-content: space-around;
   width: 95vw;
   height: auto;
