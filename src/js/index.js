@@ -1,12 +1,12 @@
 import { DOMSelectors } from "./DOM";
 import { genres } from "./genre";
 
-const key = "IeQRy8GwrRH2tC18ozyqgLhBwjwzQtO1C30FOcLH";
+const key = "ebf289106ee24a3580a099e57deeb507";
 
 const query = async function () {
   try {
     const response = await fetch(
-      `https://api.spoonacular.com/recipes/complexSearch?addRecipeInformation=true&apiKey=1e36a4fa47e6498e8d1346724fa2ca66`
+      `https://api.spoonacular.com/recipes/complexSearch?addRecipeInformation=true&apiKey=ebf289106ee24a3580a099e57deeb507`
     );
     const data = await response.json();
     data.results.forEach((recipes) => {
