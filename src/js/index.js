@@ -15,7 +15,7 @@ const query = async function () {
         `<div class="recipe-card">
         <div class="recipe-card-front">
         </div>
-        < class="recipe-card-back">
+        <div class="recipe-card-back">
           <h3 class="recipe-card-header">${recipes.title}</h3>
           <div class="score-box">
             <p class="health-score">Community Score</p>
