@@ -36,7 +36,7 @@ body {
   height: auto;
   background-color: royalblue;
   margin: 1rem auto;
-  margin-top: 3rem;
+  margin-top: 3.5rem;
   align-items: center;
 }
 .recipe-card {
@@ -110,8 +110,4 @@ body {
 .recipe-card:hover .recipe-card-back {
   z-index: 3;
   display: flex;
-}
-.test {
-  color: black;
-  font-size: 3rem;
 }

@@ -44,7 +44,7 @@ body {
   height: auto;
   background-color: royalblue;
   margin: 1rem auto;
-  margin-top: 3rem;
+  margin-top: 3.5rem;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -142,10 +142,5 @@ body {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-}
-
-.test {
-  color: black;
-  font-size: 3rem;
 }
 /*# sourceMappingURL=style.css.map */
